@@ -1,5 +1,5 @@
 {
-  "name": "@rae-hill/eff-state-man",
+  "name": "@rae-hill/eff-state",
   "version": "0.0.0",
   "type": "module",
   "description": "A state-machine framework built on Effect",

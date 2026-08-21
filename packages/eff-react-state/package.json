@@ -22,17 +22,17 @@
     "test": "echo 'No tests yet'"
   },
   "dependencies": {
-    "@rae-hill/eff-state-man": "workspace:*"
+    "@rae-hill/eff-state": "workspace:*"
   },
   "peerDependencies": {
-    "react": "^18.0.0 || ^19.0.0",
-    "effect": ">=3.0.0-rc"
+    "effect": ">=3.0.0-rc",
+    "react": "^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.19.11",
     "@types/react": "^19.1.0",
-    "react": "^19.1.0",
     "effect": "rc",
+    "react": "^19.1.0",
     "typescript": "^5.9.3"
   },
   "publishConfig": {

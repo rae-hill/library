@@ -6,8 +6,8 @@ A TypeScript monorepo for reusable libraries published to NPM under the `@rae-hi
 
 | Package | NPM Name | Description |
 | ------- | -------- | ----------- |
-| `packages/eff-state` | `@rae-hill/eff-state-man` | State-machine framework built on Effect |
-| `packages/eff-react-state` | `@rae-hill/eff-react-state` | React bindings for eff-state-man |
+| `packages/eff-state` | `@rae-hill/eff-state` | State-machine framework built on Effect |
+| `packages/eff-react-state` | `@rae-hill/eff-react-state` | React bindings for eff-state |
 
 ## Development
 

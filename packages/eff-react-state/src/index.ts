@@ -1,7 +1,7 @@
 /**
  * @rae-hill/eff-react-state
  *
- * React bindings for @rae-hill/eff-state-man.
+ * React bindings for @rae-hill/eff-state.
  *
  * @since 0.0.0
  */

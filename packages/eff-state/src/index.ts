@@ -1,5 +1,5 @@
 /**
- * @rae-hill/eff-state-man
+ * @rae-hill/eff-state
  *
  * A state-machine framework built on Effect.
  *
