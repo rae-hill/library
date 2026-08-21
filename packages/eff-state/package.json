@@ -1,0 +1,34 @@
+{
+  "name": "@rae-hill/eff-state-man",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "A state-machine framework built on Effect",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/",
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {
+    "effect": "rc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.11",
+    "typescript": "^5.9.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
