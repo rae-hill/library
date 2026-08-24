@@ -5,4 +5,23 @@
  *
  * @since 0.0.0
  */
-export {}
+
+/**
+ * @since 0.1.0
+ */
+export * as Declaration from "./declaration.js"
+
+/**
+ * @since 0.1.0
+ */
+export * as Handler from "./handler.js"
+
+/**
+ * @since 0.1.0
+ */
+export * as Namespace from "./namespace.js"
+
+/**
+ * @since 0.1.0
+ */
+export * as TypeUtils from "./type-utils.js"
